@@ -351,7 +351,7 @@ chore:    Maintenance tasks
 **Omar Jebbari**
 
 - GitHub: [@OmarJebbari](https://github.com/OmarJebbari)
-- LinkedIn: [OMAR JEBBARI](www.linkedin.com/in/omar-jebbari-00b30b269)
+- LinkedIn: [OMAR JEBBARI](https://www.linkedin.com/in/omar-jebbari-00b30b269/)
 
 ---
 
