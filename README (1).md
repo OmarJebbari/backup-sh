@@ -346,24 +346,18 @@ chore:    Maintenance tasks
 
 ---
 
-## 📜 License
-
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
-
----
-
 ## 👨‍💻 Author
 
 **Omar Jebbari**
 
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- LinkedIn: [your-linkedin](https://linkedin.com/in/your-linkedin)
+- GitHub: [@OmarJebbari](https://github.com/OmarJebbari)
+- LinkedIn: [OMAR JEBBARI](www.linkedin.com/in/omar-jebbari-00b30b269)
 
 ---
 
 <div align="center">
 
-Built with ❤️ as part of the **IBM Linux Commands and Shell Scripting** course
+Built as part of the **IBM Linux Commands and Shell Scripting** course
 
 ⭐ Star this repo if you found it useful!
 
