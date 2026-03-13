@@ -4,7 +4,6 @@
 #  backup.sh — Advanced Automated Backup Script
 #  Author   : Omar Jebbari
 #  Version  : 2.0.0
-#  License  : MIT
 # =============================================================================
 #
 #  USAGE:
