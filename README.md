@@ -67,7 +67,7 @@ This project was built as the final capstone of the **IBM Linux Commands and She
                          │  crontab │
                          │ 0 0 * * *│
                          └────┬─────┘
-                              │ triggers every 24h
+                              │  triggers every 24h
                               ▼
                          backup.sh
 ```
