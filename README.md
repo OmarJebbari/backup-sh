@@ -108,7 +108,7 @@ START
 
 ---
 
-## 🚀 Installation
+##  🚀  Installation
 
 ### Prerequisites
 
@@ -227,7 +227,7 @@ ALERT_EMAIL="admin@yourcompany.com"
 
 ---
 
-## ⏰ Scheduling with Cron
+##  ⏰  Scheduling with Cron
 
 Schedule the script to run automatically every 24 hours:
 
@@ -262,7 +262,7 @@ Add this line:
 
 ---
 
-## 📁 Project Structure
+##  📁  Project Structure
 
 ```
 backup-sh/
@@ -275,7 +275,7 @@ backup-sh/
 
 ---
 
-## 🔑 Key Concepts Demonstrated
+##  🔑  Key Concepts Demonstrated
 
 | Concept | Where Used |
 |---|---|
@@ -292,7 +292,7 @@ backup-sh/
 
 ---
 
-## 🤝 Contributing
+##  🤝  Contributing
 
 Contributions are welcome! Here's how to get involved:
 
@@ -346,7 +346,7 @@ chore:    Maintenance tasks
 
 ---
 
-## 👨‍💻 Author
+##  👨‍💻  Author
 
 **Omar Jebbari**
 
